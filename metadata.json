@@ -1,0 +1,7 @@
+{
+  "name": "指标权重计算与多属性决策实验室",
+  "description": "Index Weighting & MCDM Lab: 集成矩阵代数、主客观六大赋权法、博弈论组合赋权、TOPSIS多属性决策、Python代码引擎与AI随诊的交互式学术级实验室。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
